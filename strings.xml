@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Eye Break</string>
+    <string name="accessibility_service_description">Used only to detect when you\'re actively touching your phone, so Eye Break can reset its timer if you go idle. Reads no screen content.</string>
+</resources>
